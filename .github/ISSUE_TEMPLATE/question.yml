@@ -1,0 +1,10 @@
+name: Contract question
+description: Ask a question before changing the module contract.
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: State the ambiguity and the decision that is needed.
+    validations:
+      required: true

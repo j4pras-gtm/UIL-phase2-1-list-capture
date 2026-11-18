@@ -1,0 +1,7 @@
+{
+  "name": "uil-phase2-1-list-capture",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": { "test": "node --test", "check": "node --test && node --check src/ListCaptureModule.mjs" }
+}
